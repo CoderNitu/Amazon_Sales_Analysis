@@ -7,7 +7,7 @@ Have to conduct a detailed year-wise analysis of Amazon sales data to understand
 
 # 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
 
-## Top 5 Gross Profit Margin Categories:
+## ⦿ Top 5 Gross Profit Margin Categories:
 Cosmetics, Households, Office Supplies, Clothes, and Baby Food are the top-performing categories in terms of gross profit margin.
 
 Profit Percentage by Sales Channels:
