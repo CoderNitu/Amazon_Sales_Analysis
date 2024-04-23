@@ -25,3 +25,9 @@ Europe and Sub-Saharan Africa are the most profitable regions, contributing 25% 
 ## ⦿ Most Profitable Countries:
 Djibouti and Myanmar emerge as the most profitable countries within the regions analyzed.
 
+# 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
+
+1. Python
+2. PowerBI
+3. Canva
+
