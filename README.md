@@ -31,5 +31,5 @@ Djibouti and Myanmar emerge as the most profitable countries within the regions 
 2. PowerBI
 3. Canva
 
-# 𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗟𝗶𝗻𝗸: https://www.canva.com/design/DAGAlgUMyGE/qYLxSeCzJzzYVBZfjSJFag/view?utm_content=DAGAlgUMyGE&utm_campaign=designshare&utm_medium=link&utm_source=editor
+# 𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗟𝗶𝗻𝗸: rb.gy/tjhgua
 # 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗟𝗶𝗻𝗸: https://project.novypro.com/myWUP2
